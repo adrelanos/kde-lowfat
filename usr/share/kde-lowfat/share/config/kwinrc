@@ -1,0 +1,7 @@
+# Modified for Whonix, see COPYING for copying conditions.
+
+[Compositing]
+Enabled=false
+
+[Style]
+PluginLib=kwin3_oxygen

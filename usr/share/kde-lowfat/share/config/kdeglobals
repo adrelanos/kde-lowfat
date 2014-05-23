@@ -1,0 +1,7 @@
+# Modified for Whonix, see COPYING for copying conditions.
+
+[General]
+widgetStyle=oxygen
+
+[KDE-Global GUI Settings]
+GraphicEffectsLevel=0
