@@ -6,7 +6,7 @@ Source: kde-lowfat
 Section: misc
 Priority: optional
 Maintainer: Patrick Schleizer <adrelanos@riseup.net>
-Build-Depends: debhelper (>= 8), faketime, git
+Build-Depends: debhelper (>= 8), faketime
 Homepage: https://github.com/Whonix/kde-lowfat
 Vcs-Browser: https://github.com/Whonix/kde-lowfat
 Vcs-Git: https://github.com/Whonix/kde-lowfat.git
