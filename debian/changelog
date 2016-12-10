@@ -1,3 +1,9 @@
+kde-lowfat (3:1.2-1) unstable; urgency=medium
+
+  * New upstream version (local package).
+
+ -- Patrick Schleizer <adrelanos@riseup.net>  Sat, 10 Dec 2016 02:15:30 +0000
+
 kde-lowfat (3:1.1-1) unstable; urgency=medium
 
   * New upstream version (local package).
