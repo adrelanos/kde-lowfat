@@ -1,3 +1,21 @@
+commit 139b4499d25f4cf9a2f4ab6fffc60d409256b312
+Author: Patrick Schleizer <adrelanos@riseup.net>
+Date:   Sun Jan 15 12:42:38 2017 +0000
+
+    override lintian copyright false positive
+
+commit 33e787e46eb76894c9bb7a2e680121c78e7cfbb2
+Author: Patrick Schleizer <adrelanos@riseup.net>
+Date:   Sun Jan 15 08:35:35 2017 +0100
+
+    packaging, bumped Standards-Version from 3.9.6 to 3.9.8 for jessie support
+
+commit 9fdd1e401b5df0ec702705e6add7686ee505576c
+Author: Patrick Schleizer <adrelanos@riseup.net>
+Date:   Sat Dec 10 02:15:30 2016 +0000
+
+    bumped changelog version
+
 commit 59c9acb4ccb90d55b9c61467d15fa91667656615
 Author: Patrick Schleizer <adrelanos@riseup.net>
 Date:   Mon Nov 21 17:41:32 2016 +0000
